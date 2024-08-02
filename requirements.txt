@@ -1,0 +1,5 @@
+customtkinter
+PIL-tools
+pygame
+moviepy
+openvc-python
